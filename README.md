@@ -39,21 +39,7 @@ Usar LAN si el móvil y el ordenador están en la misma red Wi-Fi.
 
 Si no conecta, cambiar a Tunnel en la interfaz de Expo.
 
-🧩 Estructura del Proyecto
-text
-AppContador_UT1/
-│
-├── app/
-│   ├── _layout.tsx          # Estructura general de navegación (Expo Router)
-│   ├── modal.tsx            # Pantalla modal de ejemplo
-│   └── index.tsx            # Pantalla principal con el contador
-│
-├── assets/                  # Imágenes, íconos y recursos estáticos
-├── components/              # Componentes reutilizables
-├── constants/               # Constantes globales del proyecto
-├── hooks/                   # Hooks personalizados (si se usan)
-├── package.json             # Dependencias y scripts del proyecto
-└── app.json                 # Configuración principal de Expo
+
 
 📱 Perfil de Despliegue
 Parámetro	Valor
