@@ -62,7 +62,7 @@ Además, cuando el valor llega a 10, aparece el mensaje:
 🎉 ¡Meta alcanzada!
 
 📸 Captura de Pantalla
-(Sustituye el nombre de archivo por el real de tu captura o GIF)
+![alt text](image.png)
 
 🧭 Conclusión y Limitaciones
 Esta actividad me permitió crear mi primera aplicación móvil desde cero con Expo y React Native.
