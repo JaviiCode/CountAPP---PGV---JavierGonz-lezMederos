@@ -62,6 +62,8 @@ Además, cuando el valor llega a 10, aparece el mensaje:
 🎉 ¡Meta alcanzada!
 
 📸 Captura de Pantalla
+
+
 ![alt text](image.png)
 
 🧭 Conclusión y Limitaciones
